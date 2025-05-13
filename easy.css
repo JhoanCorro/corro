@@ -20,7 +20,7 @@ body {
 
 /* Agregar imagen de fondo */
 body {
-    background-image: url("https://preview.redd.it/d2hd73xxwvaa1.jpg?width=1080&crop=smart&auto=webp&s=59c30bbf3a60a950a17cb38a3fcb27c36922b056"); /* Aquí va la URL la imagen */
+    background-image: url("https://cdn.bhdw.net/im/night-snowy-mountains-and-milky-way-landscape-wallpaper-109412_w635.webp"); /* Aquí va la URL la imagen */
     background-size: cover; /* Hace que la imagen cubra todo el fondo */
     background-position: center; /* Centra la imagen */
     background-attachment: fixed; /* Fija la imagen para que no se mueva al hacer scroll */
